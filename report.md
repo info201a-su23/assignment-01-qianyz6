@@ -2,6 +2,7 @@
 ## Qianyun Zhang
 _2024-04-04_
 ## Data Viz Summary.
+<img src="images/image-assignment-01.png" width="500" height="300">
 ![Image for data viz summary](images/image-assignment-01.png)
 ### Summary for the data:
 This image presents a trend line graph titled "**Abduction Trends: Daily kidnappings in Nigeria**, _1982-2014_," sourced from the Global Database of Events, Language, and Tone. It visually represents the number of daily kidnappings in Nigeria :nigeria: over a 13-year span, with marked increases in certain years. The graph's y-axis ranges from 0 to 200 daily kidnappings, and the x-axis denotes the years from 1982 to 2014. Importantly, a notable peak is observed in 2014, specifically highlighting a surge in kidnappings during that period. The image communicates a concerning escalation in abductions, particularly in the year 2014, as indicated by the sharp rise on the graph.
