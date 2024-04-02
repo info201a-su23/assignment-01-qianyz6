@@ -1,6 +1,6 @@
 # Kidnapping in Nigeria
 ## Qianyun Zhang
-_2024-04-04_
+_2024-04-02_
 ## Data Viz Summary.
 <img src="images/image-assignment-01.png" width="500" height="500">
 I didn't use the Markdown syntax to show my data visualization, for my origin image is too big. So I use the HTML syntax to make it. :monocle_face:
