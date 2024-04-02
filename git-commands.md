@@ -18,7 +18,7 @@ cd assignment-01-qianyz6
 # (7) Add all of the changes that you've made to this file with git [1 point]
 git add.
 # (8) Commit these changes, and include a *descriptive message* [2 points]
-git git commit -m"assignment 01"
+git git commit -m "assignment-01"
 # (9) Finally, push your changes to GitHub [1 point]
 git push
 ```
